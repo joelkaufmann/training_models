@@ -1,0 +1,354 @@
+{
+  "String_metadata": {
+    "String_1": {
+      "n_Modules": 10,
+      "Module_ids": [
+        "Module_1",
+        "Module_2",
+        "Module_3",
+        "Module_4",
+        "Module_5",
+        "Module_6",
+        "Module_7",
+        "Module_8",
+        "Module_9",
+        "Module_10"
+      ]
+    },
+    "String_2": {
+      "n_Modules": 10,
+      "Module_ids": [
+        "Module_11",
+        "Module_12",
+        "Module_13",
+        "Module_14",
+        "Module_15",
+        "Module_16",
+        "Module_17",
+        "Module_18",
+        "Module_19",
+        "Module_20"
+      ]
+    }
+  },
+  "Sensor_metadata": {
+    "FEFFFFB71E5E54C4": {
+      "String_id": "String_1",
+      "Module_id": "Module_1",
+      "sensor_type": "V_T",
+      "MC4_sample_id": "1",
+      "label": "normal"
+    },
+    "FEFFFFB71E5E54C6": {
+      "String_id": "String_1",
+      "Module_id": "Module_2",
+      "sensor_type": "V_T",
+      "MC4_sample_id": "2"
+    },
+    "FEFFFFB71E5E54C3": {
+      "String_id": "String_1",
+      "Module_id": "Module_3",
+      "sensor_type": "V_T",
+      "MC4_sample_id": "3"
+    },
+    "FEFFFFB71E5E54B9": {
+      "String_id": "String_1",
+      "Module_id": "Module_4",
+      "sensor_type": "V_T",
+      "MC4_sample_id": "4"
+    },
+    "FEFFFFB71E5E54B8": {
+      "String_id": "String_1",
+      "Module_id": "Module_5",
+      "sensor_type": "V_T",
+      "MC4_sample_id": "5"
+    },
+    "FEFFFFB71E5E54C5": {
+      "String_id": "String_2",
+      "Module_id": "Module_11",
+      "sensor_type": "V_T",
+      "MC4_sample_id": "6"
+    },
+    "FEFFFFB71E5E54B6": {
+      "String_id": "String_2",
+      "Module_id": "Module_12",
+      "sensor_type": "V_T",
+      "MC4_sample_id": "7"
+    },
+    "FEFFFFB71E5E54B5": {
+      "String_id": "String_2",
+      "Module_id": "Module_13",
+      "sensor_type": "V_T",
+      "MC4_sample_id": "8"
+    },
+    "FEFFFFB71E5E54B4": {
+      "String_id": "String_2",
+      "Module_id": "Module_14",
+      "sensor_type": "V_T",
+      "MC4_sample_id": "9"
+    },
+    "FEFFFFB71E5E54B3": {
+      "String_id": "String_2",
+      "Module_id": "Module_15",
+      "sensor_type": "V_T",
+      "MC4_sample_id": "10"
+    },
+    "FEFFFFB71E5E54B2": {
+      "String_id": "String_1",
+      "Module_id": "Module_6",
+      "sensor_type": "V_T",
+      "MC4_sample_id": "11"
+    },
+    "FEFFFFB71E5E54B1": {
+      "String_id": "String_1",
+      "Module_id": "Module_7",
+      "sensor_type": "V_T",
+      "MC4_sample_id": "13"
+    },
+    "FEFFFFB71E5E54C2": {
+      "String_id": "String_1",
+      "Module_id": "Module_8",
+      "sensor_type": "V_T",
+      "MC4_sample_id": "15"
+    },
+    "FEFFFFB71E5E54C1": {
+      "String_id": "String_2",
+      "Module_id": "Module_16",
+      "sensor_type": "V_T",
+      "MC4_sample_id": "17"
+    },
+    "FEFFFFB71E5E54C0": {
+      "String_id": "String_2",
+      "Module_id": "Module_17",
+      "sensor_type": "V_T",
+      "MC4_sample_id": "19"
+    },
+    "FEFFFFB71E5E54BF": {
+      "String_id": "String_1",
+      "Module_id": "Module_9",
+      "sensor_type": "V_T",
+      "MC4_sample_id": "21"
+    },
+    "FEFFFFB71E5E54BD": {
+      "String_id": "String_1",
+      "Module_id": "Module_10",
+      "sensor_type": "V_T",
+      "MC4_sample_id": "23"
+    },
+    "FEFFFFB71E5E54BE": {
+      "String_id": "String_2",
+      "Module_id": "Module_18",
+      "sensor_type": "V_T",
+      "MC4_sample_id": "25"
+    },
+    "FEFFFFB71E5E54BC": {
+      "String_id": "String_2",
+      "Module_id": "Module_19",
+      "sensor_type": "V_T",
+      "MC4_sample_id": "27"
+    },
+    "FEFFFFB71E5E54BB": {
+      "String_id": "String_2",
+      "Module_id": "Module_20",
+      "sensor_type": "V_T",
+      "MC4_sample_id": "29"
+    },
+    "FEFFFFB71E5E54E1": {
+      "String_id": "String_1",
+      "Module_id": "Inverter",
+      "sensor_type": "I"
+    },
+    "FEFFFFB71E5E54E4": {
+      "String_id": "String_2",
+      "Module_id": "Inverter",
+      "sensor_type": "I"
+    },
+    "FEFFFFB71E5E54E3": {
+      "String_id": "String_1",
+      "Module_id": "Module_5",
+      "sensor_type": "I"
+    },
+    "FEFFFFB71E5E54E5": {
+      "String_id": "String_2",
+      "Module_id": "Module_15",
+      "sensor_type": "I"
+    }
+  },
+  "MC4_metadata": {
+    "1": {
+      "label": "normal",
+      "R_0": 0.0002214
+    },
+    "2": {
+      "label": "normal",
+      "R_0": 0.0002265
+    },
+    "3": {
+      "label": "normal",
+      "R_0": 0.000221
+    },
+    "4": {
+      "label": "normal",
+      "R_0": 0.0002337
+    },
+    "5": {
+      "label": "normal",
+      "R_0": 0.0002212
+    },
+    "6": {
+      "label": "normal",
+      "R_0": 0.0002271
+    },
+    "7": {
+      "label": "normal",
+      "R_0": 0.0002225
+    },
+    "8": {
+      "label": "normal",
+      "R_0": 0.0002147
+    },
+    "9": {
+      "label": "normal",
+      "R_0": 0.0002257
+    },
+    "10": {
+      "label": "normal",
+      "R_0": 0.0002296
+    },
+    "11": {
+      "label": "bad_crimp",
+      "R_0": 0.0002729
+    },
+    "12": {
+      "label": "bad_crimp",
+      "R_0": 0.0002482
+    },
+    "13": {
+      "label": "bad_crimp",
+      "R_0": 0.0002158
+    },
+    "14": {
+      "label": "bad_crimp",
+      "R_0": 0.0002424
+    },
+    "15": {
+      "label": "bad_crimp",
+      "R_0": 0.0002283
+    },
+    "16": {
+      "label": "bad_crimp",
+      "R_0": 0.0002317
+    },
+    "17": {
+      "label": "bad_crimp",
+      "R_0": 0.0002365
+    },
+    "18": {
+      "label": "bad_crimp",
+      "R_0": 0.000239
+    },
+    "19": {
+      "label": "bad_crimp",
+      "R_0": 0.0002393
+    },
+    "20": {
+      "label": "bad_crimp",
+      "R_0": 0.000235
+    },
+    "21": {
+      "label": "cross_mated",
+      "R_0": 0.0002498
+    },
+    "22": {
+      "label": "cross_mated",
+      "R_0": 0.0002755
+    },
+    "23": {
+      "label": "cross_mated",
+      "R_0": 0.0002528
+    },
+    "24": {
+      "label": "cross_mated",
+      "R_0": 0.0002674
+    },
+    "25": {
+      "label": "cross_mated",
+      "R_0": 0.0002453
+    },
+    "26": {
+      "label": "cross_mated",
+      "R_0": 0.0002252
+    },
+    "27": {
+      "label": "cross_mated",
+      "R_0": 0.0002269
+    },
+    "28": {
+      "label": "cross_mated",
+      "R_0": 0.0002271
+    },
+    "29": {
+      "label": "cross_mated",
+      "R_0": 0.0002395
+    },
+    "30": {
+      "label": "cross_mated",
+      "R_0": 0.0002429
+    }
+  },
+  "Module_metadata": {
+    "panda": {
+      "Module_ids": [
+        "Module_1",
+        "Module_2"
+      ],
+      "Module_type": "JKMS315M-608-MX",
+      "P_max": 315,
+      "V_OC": 35.0,
+      "I_SC": 12.0,
+      "alpha": 0.04,
+      "beta": -0.31,
+      "gamma": -0.42
+    },
+    "Suntech": {
+      "Module_ids": [
+        "Module_3",
+        "Module_4"
+      ],
+      "Module_type": "STP310S-20/Wfw-MX",
+      "P_max": 310,
+      "V_OC": 35.0,
+      "I_SC": 10.7,
+      "alpha": 0.06,
+      "beta": -0.34,
+      "gamma": -0.37
+    },
+    "Jinko": {
+      "Module_ids": [
+        "Module_5",
+        "Module_6",
+        "Module_7",
+        "Module_8",
+        "Module_9",
+        "Module_10",
+        "Module_11",
+        "Module_12",
+        "Module_13",
+        "Module_14",
+        "Module_15",
+        "Module_16",
+        "Module_17",
+        "Module_18",
+        "Module_19",
+        "Module_20"
+      ],
+      "Module_type": "YL275C-30b",
+      "P_max": 275,
+      "V_OC": 38.8,
+      "I_SC": 9.47,
+      "alpha": 0.048,
+      "beta": -0.28,
+      "gamma": -0.37
+    }
+  }
+}
