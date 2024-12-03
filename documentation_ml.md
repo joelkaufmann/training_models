@@ -590,14 +590,3 @@ Constant TIMESTEPS was changed from 12 to 72, meaning the size of the samples wa
 - Switching the number for the "unknown" label, -1 can occur in the data for ex. as the Temperature.
 
 ---
-
-
-
-
-
-
-
-
-
-
-We have to take into consideration that in those forecasting results the resistance of ~6cm cable are included, which contributes 253µΩ of the initial resistance.
