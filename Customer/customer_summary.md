@@ -39,6 +39,7 @@
 | **Next Era 360**  | Medium software team (200) within larg firm (12B) | C&I, Muni Utilities, CCA's | N/A | N/A | YES, for demand response planning from meter data | Solar Site Analytics |
 | **RaptorMaps**    | Medium | EPC and Asset Owners | YES | YES, VR as well | YES, uses SCADA data and Inverter heat map trends to send maintenace alters to asset owners and field app | Started with Drone Site Mapping, now expandign to robot inspection and maintenance tasking (in competition with OnSight) |
 | **SenseHawk**     | Medium | EPC | YES | YES | N/A | Construction Management through QC |
+| **Zeitview**      | Medium (500 People) | EPC and Asset Owners | YES | YES | N/A | Drone Mapping & Overhead PT&D grid inspection. |
 
 
 ## Large Companies 
@@ -165,6 +166,17 @@ RaptorMaps offers the software and the platform for a digital twin of the custom
 SenseHawk combines all of their products in an easy to use platform. They do efficient construction management, quality control, automated punch list, monitoring and defect resolution and streamline development workflows. It is an all in one product which helps solar asset owners to digitalize their plants and increase the efficiency and decrease the cost of running the plant. They don't state specifically how they gather their data besides the imagery and the thermal cameras on the drone, but probably they also read inverter data. The product seems quiet similar to the one of RaptorMaps though there weren't any information about the drone hardware, does it come with a docking station, are the flights fully automated, and so on. Still I have the better impression about SenseHawk than RaptorMaps.  
 
 **Personal Rating: 9/10**
+
+---
+
+### Zeitview  
+**Comment:**  
+"Inspection, caused some management turnover. Added drone-in-a-box for inspection on demand at larger sites."  
+
+**Personal Summary:**  
+Zeitview's goal is to deliver safe, fast and low-cost inspection of energy and infrastructure assets with a high degree of accuracy and repeatability. They use AI models to analyze the vast amounts of collected visual data on their inspection. Those models generate an output on which customers can act on immediately. They have customers in property management, wind, solar and construction. In the field of property management they are focused on roof health, building facades and parking lot inspections. In wind and solar, they enhance the safety, performance and energy yield through inspections and analyzing the data collected in the inspections. For solar they operate with thermal inspection. For construction sites they keep track of the progress, monitor and map the projects. All of those inspections are done via drone. For their solar inspection they offer drone inspection and also manned aircraft. They leverage drones with thermal cameras for spot checks and on-demand inspections. The crewed aircraft is equipped with calibrated and cooled thermal cameras which enables cost-effective annual collection of thermal imagery data across large areas. This is the only company that I saw which does manned inspections. I'm not entirely sure but I think that the drone inspections as well are not automated but have to be manually operated. All of the gathered data is stored in an easy-to-use platform which integrates a digital twin. Because I haven't been to a solar site I can't really say if it is necessary to do inspections via plane or not but I imagine that it is going to be way more expensive than fully automated surveillance via robot or multiple automated drones.
+
+**Personal Rating: 8/10**
 
 ---
 
